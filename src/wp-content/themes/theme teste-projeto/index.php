@@ -1,7 +1,7 @@
 <?php 
 
-$names = array('Pablo', 'Giovani', 'Pará');
+while(have_posts()){
+
+}
 
 ?>
-
-<p>Hi, my name is <?php echo $names[1]?></p>
